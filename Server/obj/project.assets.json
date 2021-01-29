@@ -6593,36 +6593,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kevin\\.nuget\\packages\\": {}
+    "C:\\Users\\borre\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kevin\\Desktop\\Tareas_5toSemestre\\Programación para Web\\dogkeepers\\server\\DogKeepers.Server.csproj",
+      "projectUniqueName": "C:\\Users\\borre\\Desktop\\DogKeepers\\Server\\DogKeepers.Server.csproj",
       "projectName": "DogKeepers.Server",
-      "projectPath": "C:\\Users\\Kevin\\Desktop\\Tareas_5toSemestre\\Programación para Web\\dogkeepers\\server\\DogKeepers.Server.csproj",
-      "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kevin\\Desktop\\Tareas_5toSemestre\\Programación para Web\\dogkeepers\\server\\obj\\",
+      "projectPath": "C:\\Users\\borre\\Desktop\\DogKeepers\\Server\\DogKeepers.Server.csproj",
+      "packagesPath": "C:\\Users\\borre\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\borre\\Desktop\\DogKeepers\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\borre\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Kevin\\Desktop\\Tareas_5toSemestre\\Programación para Web\\dogkeepers\\Client\\DogKeepers.Client.csproj": {
-              "projectPath": "C:\\Users\\Kevin\\Desktop\\Tareas_5toSemestre\\Programación para Web\\dogkeepers\\Client\\DogKeepers.Client.csproj"
+            "C:\\Users\\borre\\Desktop\\DogKeepers\\Client\\DogKeepers.Client.csproj": {
+              "projectPath": "C:\\Users\\borre\\Desktop\\DogKeepers\\Client\\DogKeepers.Client.csproj"
             },
-            "C:\\Users\\Kevin\\Desktop\\Tareas_5toSemestre\\Programación para Web\\dogkeepers\\Shared\\DogKeepers.Shared.csproj": {
-              "projectPath": "C:\\Users\\Kevin\\Desktop\\Tareas_5toSemestre\\Programación para Web\\dogkeepers\\Shared\\DogKeepers.Shared.csproj"
+            "C:\\Users\\borre\\Desktop\\DogKeepers\\Shared\\DogKeepers.Shared.csproj": {
+              "projectPath": "C:\\Users\\borre\\Desktop\\DogKeepers\\Shared\\DogKeepers.Shared.csproj"
             }
           }
         }
@@ -6635,6 +6634,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Dapper": {
             "target": "Package",
@@ -6667,7 +6667,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

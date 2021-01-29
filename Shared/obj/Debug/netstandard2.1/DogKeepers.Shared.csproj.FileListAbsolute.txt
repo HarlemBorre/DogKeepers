@@ -7,3 +7,12 @@ C:\Users\Kevin\Desktop\Tareas_5toSemestre\Programación para Web\DogKeepers\Shar
 C:\Users\Kevin\Desktop\Tareas_5toSemestre\Programación para Web\DogKeepers\Shared\obj\Debug\netstandard2.1\DogKeepers.Shared.csproj.CoreCompileInputs.cache
 C:\Users\Kevin\Desktop\Tareas_5toSemestre\Programación para Web\DogKeepers\Shared\obj\Debug\netstandard2.1\DogKeepers.Shared.dll
 C:\Users\Kevin\Desktop\Tareas_5toSemestre\Programación para Web\DogKeepers\Shared\obj\Debug\netstandard2.1\DogKeepers.Shared.pdb
+C:\Users\borre\Desktop\DogKeepers\Shared\bin\Debug\netstandard2.1\DogKeepers.Shared.deps.json
+C:\Users\borre\Desktop\DogKeepers\Shared\bin\Debug\netstandard2.1\DogKeepers.Shared.dll
+C:\Users\borre\Desktop\DogKeepers\Shared\bin\Debug\netstandard2.1\DogKeepers.Shared.pdb
+C:\Users\borre\Desktop\DogKeepers\Shared\obj\Debug\netstandard2.1\DogKeepers.Shared.csprojAssemblyReference.cache
+C:\Users\borre\Desktop\DogKeepers\Shared\obj\Debug\netstandard2.1\DogKeepers.Shared.AssemblyInfoInputs.cache
+C:\Users\borre\Desktop\DogKeepers\Shared\obj\Debug\netstandard2.1\DogKeepers.Shared.AssemblyInfo.cs
+C:\Users\borre\Desktop\DogKeepers\Shared\obj\Debug\netstandard2.1\DogKeepers.Shared.csproj.CoreCompileInputs.cache
+C:\Users\borre\Desktop\DogKeepers\Shared\obj\Debug\netstandard2.1\DogKeepers.Shared.dll
+C:\Users\borre\Desktop\DogKeepers\Shared\obj\Debug\netstandard2.1\DogKeepers.Shared.pdb
